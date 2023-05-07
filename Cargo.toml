@@ -1,4 +1,4 @@
 [workspace]
 members = [
-    "src/nn_backend",
+    "backend/nn_backend",
 ]

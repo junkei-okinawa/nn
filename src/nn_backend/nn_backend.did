@@ -1,5 +1,0 @@
-service : () -> {
-  predict : (vec float64) -> (vec float64) query;
-  single_train : (vec float64, vec float64) -> ();
-  train : (vec vec float64, vec vec float64, nat16) -> ();
-}

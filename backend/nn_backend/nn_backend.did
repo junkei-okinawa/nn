@@ -1,0 +1,7 @@
+type Result = variant { Ok : vec float64; Err : text };
+type Result_1 = variant { Ok; Err : text };
+service : {
+  predict : (vec float64) -> (Result) query;
+  single_train : (vec float64, vec float64) -> (Result_1);
+  train : (vec vec float64, vec vec float64, nat16) -> (Result_1);
+}
