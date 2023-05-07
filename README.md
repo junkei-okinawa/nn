@@ -4,8 +4,8 @@
 
 Clone repository:
 ```sh
-git clone https://github.com/iU-C3F/Reunion.git
-cd Reunion
+git clone git@github.com:junkei-okinawa/nn.git -b feature_pyscript nn-pyscript
+cd nn-pyscript
 ```
 
 ## 2. Installation
