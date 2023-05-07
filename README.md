@@ -55,7 +55,7 @@ URLs:
     hello: http://127.0.0.1:4943/?canisterId=r7inp-6aaaa-aaaaa-aaabq-cai&id=ryjl3-tyaaa-aaaaa-aaaba-cai
 ```
 
-Open [http://localhost:3000] in your browser
+Open [http://localhost:3000](http://localhost:3000) in your browser
 
 if stop local IC replica.
 ```sh
